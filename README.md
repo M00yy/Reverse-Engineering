@@ -45,7 +45,6 @@ A curated list of awesome reversing resources
 * [Windows Internals Part 1](http://amzn.to/2jlo9mA) [Part 2](http://amzn.to/2jMLCth)
 * [Inside Windows Debugging](http://amzn.to/2iqFTxf)
 * [iOS Reverse Engineering](https://github.com/iosre/iOSAppReverseEngineering)
-* [逆向工程核心原理](https://pan.baidu.com/s/1GR5XZyn1p3VZwr31h_cHLA)(y0jn)
 
 ## Courses
 
